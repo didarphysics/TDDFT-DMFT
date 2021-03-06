@@ -1,3 +1,11 @@
-We apply the Dynamical Mean-Field Theory+Time-Dependent Density-Functional Theory (DMFT+TDDFT) approach to study the role of strong electron-electron correlations in the high-order harmonic (HH) spectra in perovskite BaTiO3. In DMFT+TDDFT, the response of the system to a perturbation is analyzed with TDDFT with the exchange-correlation kernel derived from the charge susceptibility for the effective Hubbard model by using DMFT, i.e. by including time-resolved on-site electron-electron interactions. We calculated the HH spectrum of the system at different values of the field strength and of the local Coulomb repulsion U. It was found that at high field strengths the number of harmonics in the spectrum increases with the increase of U, the center-of-weight of the spectrum moves to higher harmonics, and the even harmonics become dominating. The spectrum has a strong angle dependence in the case of moderate correlations, while at stronger correlations the angle dependence is much less pronounced. These results can be used to quantify the strength of the electron correlation effects in the material with spectroscopic measurements. 
+We apply the Dynamical Mean-Field Theory+Time-Dependent Density-Functional Theory (DMFT+TDDFT) approach to study the role of strong 
+electron-electron correlations in the high-order harmonic (HH) spectra in perovskite BaTiO3. In DMFT+TDDFT, the response of the system 
+to a perturbation is analyzed with TDDFT with the exchange-correlation kernel derived from the charge susceptibility for the effective 
+Hubbard model by using DMFT, i.e. by including time-resolved on-site electron-electron interactions. We calculated the HH spectrum of 
+the system at different values of the field strength and of the local Coulomb repulsion U. It was found that at high field strengths 
+the number of harmonics in the spectrum increases with the increase of U, the center-of-weight of the spectrum moves to higher harmonics, 
+and the even harmonics become dominating. The spectrum has a strong angle dependence in the case of moderate correlations, while at stronger 
+correlations the angle dependence is much less pronounced. These results can be used to quantify the strength of the electron correlation 
+effects in the material with spectroscopic measurements. 
 
 *This work is supported in part by NSF Grant No. DMR-1809181
